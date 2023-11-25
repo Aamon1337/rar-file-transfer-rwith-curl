@@ -3,7 +3,7 @@ import time
 import os
 import subprocess
 #By aamonlavidaa
-SAVE_FOLDER = "save"
+SAVE_FOLDER = "YOUR_FOLDER_NAME"
 asd = "save"
 DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/WEBHOOK_ID/WEBHOOK_LINK"
 
